@@ -25,7 +25,7 @@ les routeurs Cisco :
 + On va juste cloner trois VMs depuis le patron du TP précédent :
 + server1.tp5.b1 est dans net1 et porte l'IP `10.5.1.10/24`
 + client1.tp5.b1 est dans net2 et porte l'IP `10.5.2.10/24`
-+ client2.tp5.b1 est dans net2 et porte l'IP `10.5.2.11/24
++ client2.tp5.b1 est dans net2 et porte l'IP `10.5.2.11/24`
 + Ajoutez aux trois VMs une interface host-only en deuxième carte dans le host-only précédemment créé
 
 **3. Vous clonez juste les VMs, vous ne les allumez pas.**
